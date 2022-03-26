@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer, and Professor!
 - 🌱 I’m currently practing frontend, backend and dataScience tools
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to share ideas and knowledge
 - 🥅 2022 Goals: Contribute more using github
 - ⚡ Fun fact: I love to cook, specially italian food =)
 
