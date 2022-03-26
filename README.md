@@ -8,4 +8,5 @@
 
 ### Connect with me:
 
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/flávio-motta-28155052)
 [<a href="linkedin.com/in/flávio-motta-28155052" rel="nofollow"><img alt="flavioDev | Linkedin" width="22px" src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" /></a>]
