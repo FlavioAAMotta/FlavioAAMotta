@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[<img align= "left" alt="flavioDev | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][<a href= "linkedin.com/in/flávio-motta-28155052">LinkedIn</a>]
+[<a href="linkedin.com/in/flávio-motta-28155052" rel="nofollow"><img align= "left" alt="flavioDev | Linkedin" width="22px" src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" /></a>]
