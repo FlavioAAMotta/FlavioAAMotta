@@ -1,3 +1,4 @@
+[linkedin]: https://linkedin.com/in/flávio-motta-28155052
 ### Hi there, I'm Flávio
 
 ## I'm a Husband, Father, Developer, and Professor!
@@ -33,4 +34,3 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioAAMotta&show_icons=true&theme=dark)
-[linkedin]: https://linkedin.com/in/flávio-motta-28155052
