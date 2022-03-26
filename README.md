@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/favicon_white.ico" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Pandas" title="pandas for dataScience" width="26px" src="https://pandas.pydata.org/static/img/favicon_white.ico" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3445927-2878859.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][linkedin]
