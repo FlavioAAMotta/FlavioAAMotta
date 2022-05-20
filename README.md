@@ -7,10 +7,9 @@
 - 🥅 2022 Goals: Contribute more using github
 - ⚡ Fun fact: I love to cook, specially italian food =)
 
-### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/flávio-motta-28155052)
-&nbsp;&nbsp;
+## 🔗 Connect with me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flávio-motta-28155052/)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/adsunifaminas/)
 
 ### Languages and Tools:
